@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "详情页",
+  "usingComponents": {
+    "MyTitle": "../../components/MyTitle/MyTitle"
+  }
+}
